@@ -38,7 +38,7 @@ pip install langtoken-toolkit
 ## Quick Start
 
 ```python
-from langtoken import BPE
+from langtoken.subword import BPE
 
 corpus = [
     "The quick brown fox",
