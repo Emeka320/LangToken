@@ -1,3 +1,4 @@
+<img width="1254" height="1254" alt="LangToken Icon" src="https://github.com/user-attachments/assets/709724b4-2464-4b7d-bd40-d9665d076df1" />
 
 # LangToken
 
